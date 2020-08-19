@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Edith2pointOh/githubUsers.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Edith2pointOh/githubUsers.git/static/js/main.fa948249.chunk.js",
+    "main.js.map": "/Edith2pointOh/githubUsers.git/static/js/main.fa948249.chunk.js.map",
+    "runtime-main.js": "/Edith2pointOh/githubUsers.git/static/js/runtime-main.aa52872c.js",
+    "runtime-main.js.map": "/Edith2pointOh/githubUsers.git/static/js/runtime-main.aa52872c.js.map",
+    "static/js/2.12591186.chunk.js": "/Edith2pointOh/githubUsers.git/static/js/2.12591186.chunk.js",
+    "static/js/2.12591186.chunk.js.map": "/Edith2pointOh/githubUsers.git/static/js/2.12591186.chunk.js.map",
+    "index.html": "/Edith2pointOh/githubUsers.git/index.html",
+    "precache-manifest.056c7412504cf863949cc1c456a1ae58.js": "/Edith2pointOh/githubUsers.git/precache-manifest.056c7412504cf863949cc1c456a1ae58.js",
+    "service-worker.js": "/Edith2pointOh/githubUsers.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Edith2pointOh/githubUsers.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.12591186.chunk.js.LICENSE.txt": "/Edith2pointOh/githubUsers.git/static/js/2.12591186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa52872c.js",
+    "static/js/2.12591186.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fa948249.chunk.js"
+  ]
+}
