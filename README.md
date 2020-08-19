@@ -1,3 +1,5 @@
+A test React project. An app using the GitHub API to find users. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
